@@ -2,4 +2,4 @@
 
 - Taken a covid dataset.
 - Preprocessed it.
-- Done forecasting using fbprophet.
+- Done forecasting using fbprophet for next 30 days.
